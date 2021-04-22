@@ -84,4 +84,4 @@ file.remove(paste0("freq",i, ".csv"))
 i <- i+1
 }
 
-#### Note: To ask further questio, please contact with me using muhammedozturk@sdu.edu.tr
+#### Note: To ask further question, please contact with me (muhammedozturk@sdu.edu.tr)
